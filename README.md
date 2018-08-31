@@ -11,4 +11,7 @@ found any **bug**, or if you want to make a **feature request** or **suggest**
 something to the the [**PokéDex API**](https://pokedevs.bastionbot.org), you
 should open an issue in this repository and we'll get back to you ASAP.
 
+For library specific issues, please go to the
+[respective libraries](https://github.com/PokeDevs) instead.
+
 </div>
